@@ -5,3 +5,4 @@ Personal updates/changes:
 
 Minor UI adjustments, syntax amends, fixed tutorial bug with display markers not visable and made a search table with google searchable urls mainly for functionality purposes. 
 
+You will need to signup for Google Map API and put that API key in the settings.json file for the map to refresh and display layers correctly.
